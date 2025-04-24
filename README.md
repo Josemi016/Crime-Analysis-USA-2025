@@ -55,7 +55,6 @@ If you wish to reference this work in an academic or professional context, pleas
 ## Contact
 
 If you have questions, suggestions, or are interested in collaboration, feel free to reach out:
-
-- 📧 Email: your.email@example.com  
+ 
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/jose-miguel-martinez-202117267/) 
 - 🧑‍💻 [GitHub Profile](https://github.com/Josemi016)
