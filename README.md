@@ -33,6 +33,7 @@ By combining data visualization, predictive modeling, and geospatial clustering,
 - **Change Point Detection**: Bayesian model to detect structural shifts over time
 
 ---
+🌐 [View the interactive crime cluster map](https://josemi016.github.io/Crime-Analysis-USA-2025/)
 
 ## Data Source
 
