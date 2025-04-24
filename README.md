@@ -45,14 +45,6 @@ For additional context, see [crimecards.dc.gov](https://crimecards.dc.gov/).
 
 ---
 
-## Citation
-
-If you wish to reference this work in an academic or professional context, please use the following citation:
-
-> Martinez Martín, Jose Miguel. “Crime Analysis in the United States – 2025.” GitHub, 2025.  
-
----
-
 ## Contact
 
 If you have questions, suggestions, or are interested in collaboration, feel free to reach out:
